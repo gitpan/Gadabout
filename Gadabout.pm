@@ -5,7 +5,7 @@ use POSIX;
 
 use vars qw/$VERSION/;
 
-$VERSION = '1.0';
+$VERSION = '1.0001';
 
 #Constructor Class
 #

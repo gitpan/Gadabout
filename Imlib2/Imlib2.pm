@@ -9,7 +9,7 @@ use Data::Dumper;
 use vars qw(@ISA $VERSION);
 
 @ISA = qw(Gadabout);
-$VERSION = '1.0';
+$VERSION = '1.0001';
 
 sub new{
     my $self = shift;
@@ -318,8 +318,6 @@ OmniTI Computer Consulting, Inc.  Copyright (c) 2003
 =head1 AUTHOR
 
 Ben Martin <bmartin@omniti.com>
-
-Theo Schlossnagle <jesus@omniti.com>
 
 OmniTI Computer Consulting, Inc.
 

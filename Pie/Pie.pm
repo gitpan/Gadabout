@@ -6,7 +6,7 @@ use Apache;
 use strict;
 
 use vars qw/$VERSION/;
-$VERSION = '1.0';
+$VERSION = '1.0001';
 
 my $gcounter = 0;
 sub graph_name {
@@ -70,7 +70,7 @@ __END__
 
 =head1 NAME
 
-Gadabout
+Gadabout::Pie
 
 =head1 SYNOPSIS
 
