@@ -304,7 +304,7 @@ __END__
 
 =head1 NAME
 
-Gadabout::Imlib
+Gadabout::Imlib2
 
 =head1 SYNOPSIS
 
